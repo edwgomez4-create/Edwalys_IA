@@ -2,9 +2,9 @@ inpor gradio
 
 def m ain()..    paz
 if if
-    paz
-  if i f if ..
-      paz
+    pass
+  if if if ..
+      pass
   if if ..
       return
   if if ..
