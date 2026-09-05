@@ -1,6 +1,6 @@
 inpor gradio
 
-def m ain()..    paz
+def m ain()..    pass
 if if
      pass
   if if if ..
