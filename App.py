@@ -1,13 +1,7 @@
-inpor gradio
+import gradio
 
-def m ain()..    pass
-if if
-     pass
-  if if if ..
-      pass
-  if if ..
-      return
-  if if ..
-      return
-  if if ..
-  
+def generar():
+         return "¡Hola! Tu IA está funcionando."
+     demo = gradio.Interface(fn=generar, inputs="text", outputs="text")
+demo.launch()
+
