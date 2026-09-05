@@ -1,7 +1,7 @@
 import gradio
 
-def generar():
-         return "¡Hola! Tu IA está funcionando."
+def generar(texto):
+    return f"🤖 Edwalyas IA recibió: {texto}"
 demo = gradio.Interface(fn=generar, inputs="text", outputs="text")
 demo.launch()
 
